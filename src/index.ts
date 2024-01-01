@@ -1,4 +1,4 @@
-import {someFunc} from "test";
+import {someFunc} from "./test";
 
 
 someFunc(123)
