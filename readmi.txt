@@ -1,1 +1,1 @@
-Git init
+My personal project when i learn more technologies
