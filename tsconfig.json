@@ -11,8 +11,14 @@
     "jsx": "react-jsx",
     "baseUrl": ".",
     "strict": true,
+    "lib": [
+      "es2017",
+      "dom"
+    ],
     "paths": {
-      "*": ["./src/*"]
+      "*": [
+        "./src/*"
+      ]
     },
     //    "baseUrl": ".",
     // The compiler will process not only TS files, but also JS files
@@ -34,7 +40,6 @@
     // import * as React from 'react';
     // you can write like this
     // import React from 'react';
-
   },
   "ts-node": {
     "compilerOptions": {
@@ -44,6 +49,6 @@
   "include": [
     "./config/jest/setupTests.ts",
     "./src/**/*.ts",
-    "./src/**/*.tsx",
+    "./src/**/*.tsx"
   ]
 }

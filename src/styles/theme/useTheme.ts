@@ -3,7 +3,7 @@ import {useContext} from "react";
 
 interface UseThemeResult {
     toggleTheme: () => void;
-    theme?: Theme;
+    theme: Theme;
 }
 
 export function useTheme(): UseThemeResult {
@@ -16,7 +16,7 @@ export function useTheme(): UseThemeResult {
         localStorage.setItem(LOCAL_STORAGE_THEME_KEY, newTheme);
     }
 
-    return {
+    return <UseThemeResult>{
         theme,
         toggleTheme
     }
