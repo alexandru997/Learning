@@ -4,9 +4,12 @@ import { useTranslation } from 'react-i18next';
 const MainePage = () => {
     const { t } = useTranslation();
     return (
-        <div>
-            {t('Main Page')}
-        </div>
+        <>
+            {/* <BugButtonError /> */}
+            <div>
+                {t('Main Page')}
+            </div>
+        </>
     );
 };
 
