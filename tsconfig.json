@@ -10,22 +10,13 @@
     "target": "es5",
     "jsx": "react-jsx",
     "baseUrl": ".",
-    "strict": true,
-    "lib": [
-      "es2017",
-      "dom"
-    ],
     "paths": {
-      "*": [
-        "./src/*"
-      ]
+      "*": ["./src/*"]
     },
-    //    "baseUrl": ".",
+//    "baseUrl": ".",
     // The compiler will process not only TS files, but also JS files
     "allowJs": true,
     "moduleResolution": "node",
-    "esModuleInterop": true,
-    "allowSyntheticDefaultImports": true
     // esModuleInterop allows you to work with packages that use
     // common js as with regular packages using import (require() module.export) = common js
     // import Moment from 'moment';
@@ -33,13 +24,14 @@
     // console.log(Moment);
     // with flag result [object Object]
     // console.log(Moment);
-
+    "esModuleInterop": true,
     // with flag result [object Object],
     // loaders like ts-loader or babel-loader automatically create them
     // instead of this import
     // import * as React from 'react';
     // you can write like this
     // import React from 'react';
+    "allowSyntheticDefaultImports": true
   },
   "ts-node": {
     "compilerOptions": {
@@ -49,6 +41,6 @@
   "include": [
     "./config/jest/setupTests.ts",
     "./src/**/*.ts",
-    "./src/**/*.tsx"
+    "./src/**/*.tsx",
   ]
 }

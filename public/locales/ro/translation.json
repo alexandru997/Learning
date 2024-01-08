@@ -1,14 +1,12 @@
 {
-  "Text Translation": "Traducere text",
-  "translate": "traducere",
-  "About Page": "Despre mine",
-  "Main Page": "Acasa",
-  "Language": "Română",
-  "Toggle": "Toggle",
-  "Main": "Main",
-  "About": "About",
-  "Page not found": "Page not found",
-  "trigger error": "trigger error",
-  "something went wrong": "something went wrong",
-  "reload page": "reload page"
+  "Testing translation": "Testare",
+  "Translate": "Traducere",
+  "Main Page": "Pagina Pricipala",
+  "About Page": "Despre noi ",
+  "Language": "Romana",
+  "toggle": "Inchide",
+  "Page not found": "Page nu a fost gasita",
+  "something went wrong": "Opaa ceva nu a mers bine",
+  "reload page": "Actualizeaza pagina",
+  "trigege error": "Declanseaza eroarea"
 }

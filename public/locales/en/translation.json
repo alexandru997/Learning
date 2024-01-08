@@ -1,14 +1,12 @@
 {
-  "Text Translation": "Text Translation",
-  "translate": "translate",
+  "Testing translation" : "Testing translation",
+  "Translate": "Translate",
+  "Main Page": "Maine page",
   "About Page": "About Page",
-  "Main Page": "Main Page",
   "Language": "English",
-  "Toggle": "Toggle",
-  "Main": "Main",
-  "About": "About",
+  "toggle": "Toggle",
   "Page not found": "Page not found",
-  "trigger error": "trigger error",
-  "something went wrong": "something went wrong",
-  "reload page": "reload page"
+  "something went wrong": "Something went wrong",
+  "reload page": "Reload page",
+  "trigege error": "Trigger error"
 }
