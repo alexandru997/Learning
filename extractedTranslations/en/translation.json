@@ -1,13 +1,10 @@
 {
-  "About": "About",
   "About Page": "About Page",
   "Language": "Language",
-  "Main": "Main",
   "Main Page": "Main Page",
   "Page not found": "Page not found",
-  "Toggle": "Toggle",
   "reload page": "reload page",
   "something went wrong": "something went wrong",
-  "trigege error": "trigege error",
-  "trigger error": "trigger error"
+  "toggle": "Toggle",
+  "trigege error": "trigege error"
 }
