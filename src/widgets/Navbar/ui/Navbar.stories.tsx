@@ -14,6 +14,7 @@ export default {
     },
 } as ComponentMeta<typeof Navbar>;
 
+// @ts-ignore
 const Template: ComponentStory<typeof Navbar> = (args) => <Navbar {...args} />;
 
 export const Ligth = Template.bind({});
