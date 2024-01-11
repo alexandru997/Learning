@@ -4,8 +4,16 @@
   "HomePage": "HomePage",
   "Lang": "Lang",
   "Language": "Language",
+  "Lorem": "Lorem",
+  "Lorem ipsum dolor sit amet, consectetur adipisicing elit": {
+    " Perferendis, vitae": {
+      "": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis, vitae."
+    }
+  },
   "Main Page": "Main Page",
   "Page not found": "Page not found",
+  "SignIn": "SignIn",
+  "Toggle": "Toggle",
   "reload page": "reload page",
   "something went wrong": "something went wrong",
   "toggle": "Toggle",
