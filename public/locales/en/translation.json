@@ -14,5 +14,7 @@
   "AboutUS": "AboutUS",
   "Lorem": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis, vitae.",
   "Toggle": "Toggle",
-  "SignIn": "SignIn"
+  "SignIn": "SignIn",
+  "increment": "increment",
+  "decrement": "decrement"
 }
