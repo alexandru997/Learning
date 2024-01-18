@@ -16,5 +16,7 @@
   "Toggle": "Toggle",
   "SignIn": "SignIn",
   "increment": "increment",
-  "decrement": "decrement"
+  "decrement": "decrement",
+  "Login": "Login",
+  "Password": "Password"
 }
