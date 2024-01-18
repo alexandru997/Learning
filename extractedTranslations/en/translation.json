@@ -4,6 +4,7 @@
   "HomePage": "HomePage",
   "Lang": "Lang",
   "Language": "Language",
+  "Login": "Login",
   "Lorem": "Lorem",
   "Lorem ipsum dolor sit amet, consectetur adipisicing elit": {
     " Perferendis, vitae": {
@@ -12,6 +13,8 @@
   },
   "Main Page": "Main Page",
   "Page not found": "Page not found",
+  "Password": "",
+  "Psssword": "",
   "SignIn": "SignIn",
   "Toggle": "Toggle",
   "decrement": "decrement",
