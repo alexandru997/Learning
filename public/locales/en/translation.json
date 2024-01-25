@@ -18,5 +18,7 @@
   "increment": "increment",
   "decrement": "decrement",
   "Login": "Login",
-  "Password": "Password"
+  "Password": "Password",
+  "Authorisation form": "Authorisation form",
+  "Log Out": "Log Out"
 }
